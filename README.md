@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <h1>Проект тестирование docker-compose</h1><br>
-=======
-<h1>Проект тестирование docker-compose</h1> <br>
->>>>>>> c790726c92b4b65917535ac10f39cb207c4b55f1
 Описание проекта:<br>
 Данный проект предназначен для тренировки работы с технологией docker, для контейнеризации django проекта api_yamdb.<br>
 <br>
@@ -22,8 +18,5 @@ pip install -r requirements.txt<br>
 python manage.py migrate<br>
 <br>
 Запустить проект:<br>
-<<<<<<< HEAD
 python manage.py runserver<br>
-=======
-python manage.py runserver<br>
->>>>>>> c790726c92b4b65917535ac10f39cb207c4b55f1
+
