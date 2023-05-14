@@ -55,7 +55,7 @@ jobs:
           push: true
           tags: dreamcrusader/yamdb_final
           file: api_yamdb/Dockerfile
-deploy:
+  deploy:
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
     steps:
