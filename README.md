@@ -20,3 +20,5 @@ python manage.py migrate<br>
 Запустить проект:<br>
 python manage.py runserver<br>
 
+[![Django-app workflow](https://github.com/PavelSavvinov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)](https://github.com/PavelSavvinov/yamdb_final/actions/workflows/yamdb_workflow.yml)
+
